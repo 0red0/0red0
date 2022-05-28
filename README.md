@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0red0
 - 👀 I’m interested in ...web developing
 - 🌱 I’m currently learning ...full stack web developing
-- 💞️ I’m looking to collaborate on ...java script projects
+- 💞️ I’m looking to collaborate on ...javascript projects
 - 📫 How to reach me ...email
 -    I started 26/3/2022 in my full stack dev journey
 
