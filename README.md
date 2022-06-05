@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...full stack web developing
 - 💞️ I’m looking to collaborate on ...javascript projects
 - 📫 How to reach me ...email
--    I started 26/3/2022 in my full stack dev journey
+-    I started 23/3/2022 in my full stack dev journey
 
 <!---
 0red0/0red0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
