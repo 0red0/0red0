@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0red0
+- 👋 Hi, I’m Yahya
 - 👀 I’m interested in ...web developing
 - 🌱 I’m currently learning ...full stack web developing
 - 💞️ I’m looking to collaborate on ...javascript projects
