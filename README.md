@@ -5,6 +5,8 @@
 - 📫 How to reach me ...email
 -    I started 23/3/2022 in my full stack dev journey
 
+My first non-responsive landing page : https://0red0.github.io/106-flex-landing-page1/
+
 <!---
 0red0/0red0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
