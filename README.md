@@ -5,6 +5,7 @@
 - 📫 How to reach me ...email
 -    I started 23/3/2022 in my full stack dev journey
 
+My noob portfolio : https://0red0.github.io/100-MyPortfolio/
 My first non-responsive landing page : https://0red0.github.io/106-flex-landing-page1/
 
 <!---
