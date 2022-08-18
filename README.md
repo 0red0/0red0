@@ -5,6 +5,10 @@
 - 📫 How to reach me ...email
 -    I started 23/3/2022 in my full stack dev journey
 
+Project Personal Portofolio,
+fully responsive interface. <br>
+visit page: 
+https://0red0.github.io/Personal-Portfolio/ <br>
 My noob portfolio : https://0red0.github.io/100-MyPortfolio/ <br>
 My first non-responsive landing page : https://0red0.github.io/106-flex-landing-page1/ <br>
 Admin Dash Project - fully responsive interface : https://0red0.github.io/Admin-Dash-Project/ <br>
