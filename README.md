@@ -9,10 +9,7 @@ Project Personal Portofolio,
 fully responsive interface. <br>
 visit page: 
 https://0red0.github.io/Personal-Portfolio/ <br>
-My noob portfolio : https://0red0.github.io/100-MyPortfolio/ <br>
-My first non-responsive landing page : https://0red0.github.io/106-flex-landing-page1/ <br>
-Admin Dash Project - fully responsive interface : https://0red0.github.io/Admin-Dash-Project/ <br>
-A better landing page : https://0red0.github.io/Template-3/ <br>
+
 <!---
 0red0/0red0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
