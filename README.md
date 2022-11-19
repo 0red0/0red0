@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...full stack web developing
 - 💞️ I’m looking to collaborate on ...javascript projects
 - 📫 How to reach me ...email
--    I started 23/3/2022 in my full stack dev journey
 
 Project Personal Portofolio,
 fully responsive interface. <br>
